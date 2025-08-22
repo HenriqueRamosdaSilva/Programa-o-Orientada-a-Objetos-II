@@ -1,0 +1,14 @@
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\bin\Debug\net8.0\TBL_01_ap_ex2.exe
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\bin\Debug\net8.0\TBL_01_ap_ex2.deps.json
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\bin\Debug\net8.0\TBL_01_ap_ex2.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\bin\Debug\net8.0\TBL_01_ap_ex2.dll
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\bin\Debug\net8.0\TBL_01_ap_ex2.pdb
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.dll
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\refint\TBL_01_ap_ex2.dll
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.pdb
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\TBL_01_ap_ex2.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\TBL 01\Exercicio_02\TBL_01_ap_ex2\TBL_01_ap_ex2\obj\Debug\net8.0\ref\TBL_01_ap_ex2.dll
