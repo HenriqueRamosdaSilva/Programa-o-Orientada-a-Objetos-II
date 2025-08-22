@@ -1,0 +1,33 @@
+  1 - Considerando o modelo cascata, faça como no exemplo e implemente em
+C#. Destacando as características deste modelo e considerando o professor
+como cliente, ou seja, apresentando o projeto na sua devida etapa.
+
+Etapas (seguindo o Cascata):
+  1. Definição do problema: O sistema deve cadastrar livros e usuários.
+  2. Análise: Identificar entidades: Livro, Usuario.
+  3. Projeto: Criar um diagrama de classes simples com Livro (título, autor) e Usuario (nome, matrícula).
+  4. Implementação (C#):
+  ○ Criar classes Livro e Usuario.
+  ○ Criar método para exibir os dados de cada entidade.
+  5. Testes: Criar um programa que instancia 2 livros e 2 usuários, exibindo seus dados.
+
+  Projeto a ser implementado:
+Um Sistema de Pedidos Online registrando um pedido com cliente e com produto
+Etapas (seguindo o Cascata):
+  1. Definição do problema: O sistema deve registrar um pedido que contem o cliente e o produto pedido.
+  2. Análise: Identificar entidades: Cliente, Produto, Pedido .
+  3. Projeto: Criar um diagrama de classes simples com Cliente (nome, email), Pedido (cliente, Produto)e Produto (nome, preço).
+Cliente
+  Nome: string
+  Email: string
+Produto
+  Nome: string
+  Preco: double
+Pedido
+  Id: int
+  Cliente: Cliente
+  Produtos: List<Produto>
+  4. Implementação (C#):
+  ○ Criar classes Livro e Usuario.
+  ○ Criar método para exibir os dados de cada entidade.
+  5. Testes: Criar um programa que instancia 2 pedidos e 2 produtos e , exibindo seus dados. DOIS CLIENTES
