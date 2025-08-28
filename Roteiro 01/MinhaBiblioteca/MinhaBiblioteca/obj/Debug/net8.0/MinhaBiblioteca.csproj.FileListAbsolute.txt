@@ -1,0 +1,11 @@
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.deps.json
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.dll
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.pdb
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.dll
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\refint\MinhaBiblioteca.dll
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.pdb
+C:\Users\alunolab\Documents\POO2\Aula01\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\net8.0\ref\MinhaBiblioteca.dll
