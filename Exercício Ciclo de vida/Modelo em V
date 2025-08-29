@@ -1,0 +1,8 @@
+Exercício 01 Em um projeto de sistema bancário, explique como você aplicaria os planos 
+de teste já na fase de análise de requisitos, antes mesmo da codificação.
+ Eu definiria requisitos para a funcionabilidade do sistema como: o cliente deve conseguir transferir dinheiro para outro e pagar contas e etc..
+ai os planos de teste seriam os segunintes 
+testar o  oque ocorre normalmente, com saldo insuficiente, quando não existe a conta que vai receber, com data errada, conta vencida.
+
+Exercício 02 . Imagine que um bug crítico foi detectado no teste de aceitação. Qual fase do lado esquerdo do “V” precisaria ser revisitada e por quê?
+A analise de requisitos pois se um bug tão crítico chegou até aqui tem algo errado desde o começo.
