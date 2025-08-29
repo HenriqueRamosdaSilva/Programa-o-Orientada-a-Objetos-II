@@ -1,14 +1,11 @@
-# BibliotecaFinanceiro
+Adicione a DLL no seu projeto BibliotecaFinanceiro
 
-Biblioteca para cálculos financeiros, incluindo juros compostos.
+Como usar
+1 Crie um objeto para a classe Financeira
 
-## Como usar
+2 Chame Juros_Compostos 
 
-1. Adicione a DLL **BibliotecaFinanceiro** ao seu projeto.
+3 insira o saldo inicial, Taxa de juros, Tempo Rendendo 
 
-2. Crie um objeto da classe **Financeira**:
-
-```csharp
 var calc = new Financeira();
 double resultado = calc.Juros_Compostos(saldoInicial, taxa, tempo);
-Console.WriteLine($"Resultado: {resultado}");
