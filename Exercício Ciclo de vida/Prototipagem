@@ -1,0 +1,11 @@
+1. Durante a prototipagem de um sistema de gerenciamento escolar, você
+entrega um protótipo não operacional de telas de matrícula. Como garantir
+que o cliente entenda que esse protótipo não é a versão final?
+  No começo do Prjeto já deixe claro que vai haver diversas entregas de prototipos para teste e avalição e que o que foi entreque 
+não e funcional,e na hora da entrega das telas de matriculas devemos reforçar com o cliente que as telas não tem fulção e que e 
+para ele so avaliar a estetica e o posicionamento dos dados.
+Além de colocar avisos visuais no prototipo
+2. Cite um exemplo de protótipo descartável e um de protótipo reaproveitável
+para esse mesmo sistema escolar?
+  Exemplo de protótipo descartável: Uma tela de matricula feita no canva ou figma.
+  Exemplo de protótipo reaproveitável: Uma tela de matricula funcional mas sem o front end o designer.
