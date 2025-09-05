@@ -1,0 +1,17 @@
+1. Uma startup precisa lançar em 90 dias um aplicativo pioneiro de delivery de
+farmácia. Quais práticas do RAD ajudariam a cumprir esse prazo apertado?
+As seguintes praticas do RAD ajudariam:
+Uma prototipagem rapida já que diferentes equipes cuidam de uma parte do projeto.
+E como ele e desenvolvido em modulos ele pode ser testado separadamente e mais rapido
+O cliente esta envolvido diretamente com o projeto ajudando a evitar mal entendidos.
+E tambem a utilização Prévia biblioteca de componentes reutilizáveis ajuda a agilizar muito.
+
+2. Em um time grande, como você dividiria as tarefas para aproveitar o
+paralelismo do RAD sem comprometer a qualidade do software?
+Eu dividiria a equipe nos seguintes times
+  Tela de login/Cadastro
+  Catalogo de medicamentos 
+  Local de lavidação das receitas
+  Carinho/Formas de pagamentos
+  Localização da entrega/taxa de entrega
+  Chat de comunicação para suporte do cliente
