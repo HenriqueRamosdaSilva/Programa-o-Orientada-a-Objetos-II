@@ -1,0 +1,12 @@
+1. Em um projeto de sistema de controle de tráfego aéreo (altíssimo risco),
+descreva como você usaria a análise de riscos em cada volta da espiral.
+  Na Definição de Objetivos:Nessa parte iremos analisar todos os requisitos para definir oque e possivel e oque não possivel 
+fazer no tempo e com o dinheiro disponivel, e consulta especialistas e fazer uma pesquisa mais aprofundada.
+  Na Análise de Riscos:Nesse vamos analisar o risco, altenativas que podemos tomar e posiveis restrições de cada parte do projeto  
+levantada acima alem de utilizar prototipos para ajudar.
+  No Desenvolvimento e Validação: Agora escolhemos um modelo para desenvolver o sistemas de acordo com o decididos nas partes anteriores.
+  No Planejamento da Próxima: agora revisamos as outras parte e decidimos refazer a procima parte do projeto
+
+2. Dê um exemplo de requisito que poderia ser validado com protótipos no
+modelo espiral antes de comprometer todo o orçamento.
+O sistema deve permitir que o usuario reaja a uma colisão de aeronave em ate 2 segundos.
