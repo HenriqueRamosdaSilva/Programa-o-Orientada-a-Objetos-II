@@ -1,0 +1,18 @@
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Teste Ex 05.exe
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Teste Ex 05.deps.json
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Teste Ex 05.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Teste Ex 05.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Teste Ex 05.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Execicio 05.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\bin\Debug\net8.0\Execicio 05.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex.D4453DB5.Up2Date
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\refint\Teste Ex 05.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\Teste Ex 05.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 05\Teste Ex 05\Teste Ex 05\obj\Debug\net8.0\ref\Teste Ex 05.dll
