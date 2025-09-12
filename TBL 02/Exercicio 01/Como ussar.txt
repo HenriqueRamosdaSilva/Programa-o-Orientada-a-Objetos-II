@@ -1,0 +1,13 @@
+using Exercicio_01;
+
+public class IdadeInvalidaException : Exceptionpublic class IdadeInvalidaException : Exception
+
+Exemplo  try
+            {
+                Console.WriteLine("\nTestando idade: {idade}");
+
+                if (idade < 0 || idade > 120)
+                    throw new IdadeInvalidaException("Idade inválida: {idade}");
+
+                Console.WriteLine("Idade válida! Cadastro permitido.");
+            }
