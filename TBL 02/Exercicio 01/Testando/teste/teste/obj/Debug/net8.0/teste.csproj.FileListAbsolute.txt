@@ -1,0 +1,18 @@
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\teste.exe
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\teste.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\Exercicio 01.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\bin\Debug\net8.0\Exercicio 01.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.csproj.Up2Date
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Testando\teste\teste\obj\Debug\net8.0\ref\teste.dll
