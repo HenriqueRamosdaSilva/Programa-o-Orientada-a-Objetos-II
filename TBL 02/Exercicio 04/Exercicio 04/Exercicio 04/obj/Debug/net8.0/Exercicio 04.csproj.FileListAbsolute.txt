@@ -1,0 +1,11 @@
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\bin\Debug\net8.0\Exercicio 04.deps.json
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\bin\Debug\net8.0\Exercicio 04.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\bin\Debug\net8.0\Exercicio 04.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\refint\Exercicio 04.dll
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\Exercicio 04.pdb
+C:\Users\alunolab\Documents\POO2\TBL 02\Exercicio 04\Exercicio 04\Exercicio 04\obj\Debug\net8.0\ref\Exercicio 04.dll
