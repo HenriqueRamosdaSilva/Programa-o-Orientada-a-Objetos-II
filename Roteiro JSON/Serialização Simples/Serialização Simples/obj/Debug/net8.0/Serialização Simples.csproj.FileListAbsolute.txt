@@ -1,0 +1,17 @@
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Serialização Simples.exe
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Serialização Simples.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Serialização Simples.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Serialização Simples.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Serialização Simples.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serializ.FE6C9149.Up2Date
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\refint\Serialização Simples.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\Serialização Simples.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Serialização Simples\Serialização Simples\obj\Debug\net8.0\ref\Serialização Simples.dll

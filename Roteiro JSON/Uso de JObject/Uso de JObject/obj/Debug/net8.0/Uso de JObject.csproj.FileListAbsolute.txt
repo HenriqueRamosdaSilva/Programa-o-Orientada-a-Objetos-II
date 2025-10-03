@@ -1,0 +1,17 @@
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Uso de JObject.exe
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Uso de JObject.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Uso de JObject.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Uso de JObject.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Uso de JObject.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de J.757CFE5D.Up2Date
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\refint\Uso de JObject.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\Uso de JObject.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Uso de JObject\Uso de JObject\obj\Debug\net8.0\ref\Uso de JObject.dll
