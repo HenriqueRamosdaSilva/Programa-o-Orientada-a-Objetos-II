@@ -1,0 +1,17 @@
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Lista de Objetos.exe
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Lista de Objetos.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Lista de Objetos.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Lista de Objetos.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Lista de Objetos.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de.7D7D9457.Up2Date
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\refint\Lista de Objetos.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\Lista de Objetos.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Lista de Objetos\Lista de Objetos\obj\Debug\net8.0\ref\Lista de Objetos.dll

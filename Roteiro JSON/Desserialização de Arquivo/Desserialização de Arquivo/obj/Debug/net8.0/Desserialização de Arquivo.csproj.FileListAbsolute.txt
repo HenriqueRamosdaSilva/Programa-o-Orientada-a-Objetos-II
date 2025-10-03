@@ -1,0 +1,17 @@
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Desserialização de Arquivo.exe
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Desserialização de Arquivo.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Desserialização de Arquivo.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Desserialização de Arquivo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Desserialização de Arquivo.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desseria.1C87C6FC.Up2Date
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\refint\Desserialização de Arquivo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\Desserialização de Arquivo.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro JSON\Desserialização de Arquivo\Desserialização de Arquivo\obj\Debug\net8.0\ref\Desserialização de Arquivo.dll
