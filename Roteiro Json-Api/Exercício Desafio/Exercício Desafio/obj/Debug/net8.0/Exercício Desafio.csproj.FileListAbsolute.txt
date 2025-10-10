@@ -1,0 +1,17 @@
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Exercício Desafio.exe
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Exercício Desafio.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Exercício Desafio.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Exercício Desafio.dll
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Exercício Desafio.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exerc_ci.8E2B0750.Up2Date
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.dll
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\refint\Exercício Desafio.dll
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\Exercício Desafio.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro Json-Api\Exercício Desafio\Exercício Desafio\obj\Debug\net8.0\ref\Exercício Desafio.dll
