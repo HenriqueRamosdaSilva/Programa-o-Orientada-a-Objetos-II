@@ -1,0 +1,14 @@
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\bin\Debug\net8.0\Exercício_1.exe
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\bin\Debug\net8.0\Exercício_1.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\bin\Debug\net8.0\Exercício_1.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\bin\Debug\net8.0\Exercício_1.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\bin\Debug\net8.0\Exercício_1.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\refint\Exercício_1.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\Exercício_1.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exercício_1\Exercício_1\obj\Debug\net8.0\ref\Exercício_1.dll

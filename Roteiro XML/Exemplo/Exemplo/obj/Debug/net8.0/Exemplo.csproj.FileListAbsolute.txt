@@ -1,0 +1,14 @@
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfo.cs
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\bin\Debug\net8.0\Exemplo.exe
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\bin\Debug\net8.0\Exemplo.deps.json
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\bin\Debug\net8.0\Exemplo.runtimeconfig.json
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\bin\Debug\net8.0\Exemplo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\bin\Debug\net8.0\Exemplo.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\refint\Exemplo.dll
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.pdb
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\Exemplo.genruntimeconfig.cache
+C:\Users\alunolab\Documents\POO2\Roteiro XML\Exemplo\Exemplo\obj\Debug\net8.0\ref\Exemplo.dll
