@@ -1,0 +1,1 @@
+O arquivo tá zipado porque não da pra subir no git coisas com mais de 100 arquivos ou pastas já que só sobe pela web já que nos computadores da faculdade o terminal de comando e bloqueado 
