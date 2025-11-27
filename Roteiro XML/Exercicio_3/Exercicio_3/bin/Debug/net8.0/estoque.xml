@@ -1,0 +1,10 @@
+﻿<Estoque>
+  <Item>
+    <Nome>Teclado</Nome>
+    <Quantidade>5</Quantidade>
+  </Item>
+  <Item>
+    <Nome>Mouse</Nome>
+    <Quantidade>3</Quantidade>
+  </Item>
+</Estoque>
